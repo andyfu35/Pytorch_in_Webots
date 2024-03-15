@@ -26,4 +26,8 @@ mkdir worlds
 ## 2.Setup the simulation world        
 Download this file [world](https://docs.ros.org/en/foxy/_downloads/5ad123fc6a8f1ea79553d5039728084a/my_world.wbt), then put it inside `worlds` folder
 
+
+
+
+            
 ## 3.Edit the `my_robot_driver.py` plugin

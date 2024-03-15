@@ -24,5 +24,5 @@ source install/setup.bash
 cd /src
 ```
 ```
-ros2 pkg create --build-type ament_python --license Apache-2.0 --node-name my_robot_driver my_package --dependencies rclpy geometry_msgs webots_ros2_driver
+ros2 pkg create --build-type ament_python --license Apache-2.0 --node-name `my_robot_driver` `my_package` --dependencies rclpy geometry_msgs webots_ros2_driver
 ```

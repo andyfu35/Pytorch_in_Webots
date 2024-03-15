@@ -6,4 +6,12 @@ I'm making a project about how to use Ros2 in Webots with python. I want to reco
 
 Build a Ros2 workspace    
 
-'mkdir /ros2_ws/src'
+```
+mkdir /ros2_ws/src
+```
+```
+cd /ros2_ws
+```
+```
+colcon build
+```

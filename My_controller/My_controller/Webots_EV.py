@@ -40,3 +40,5 @@ if __name__ == "__main__":
     set_robot_position('robot_name', x=1.0, y=0.0, z=0.5)  # 替換'robot_name'為你的機器人名稱，並設置所需的位置坐標
     # 重新加載環境
     reload_world()
+
+    print("That's a test")

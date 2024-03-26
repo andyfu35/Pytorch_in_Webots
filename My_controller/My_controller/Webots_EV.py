@@ -14,6 +14,7 @@ def load_world(world_file):
 
     # 載入世界文件
     subprocess.run(['webots', '--batch', world_file])
+    
 
 def reload_world():
     # 等待一段時間確保Webots已經載入世界文件
